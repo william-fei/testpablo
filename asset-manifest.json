@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/testpablo/static/css/main.c61fe05b.css",
-    "main.js": "/testpablo/static/js/main.c8e25dcd.js",
+    "main.js": "/testpablo/static/js/main.c43d6060.js",
     "static/media/P1020419.jpg": "/testpablo/static/media/P1020419.4e4366034d055262b8d1.jpg",
     "static/media/MainLandingPageHero.png": "/testpablo/static/media/MainLandingPageHero.30b380787ef7adb09eb6.png",
     "static/media/AgencyLandingPage.jpeg": "/testpablo/static/media/AgencyLandingPage.717f8ed6737d6161b153.jpeg",
@@ -88,10 +88,10 @@
     "static/media/arrow-right-3-icon.svg": "/testpablo/static/media/arrow-right-3-icon.d415f77e8dc81ff77fdb53c0ee2da771.svg",
     "static/media/handle-icon.svg": "/testpablo/static/media/handle-icon.75eb6395a03cd55833f64fd24df39ff5.svg",
     "main.c61fe05b.css.map": "/testpablo/static/css/main.c61fe05b.css.map",
-    "main.c8e25dcd.js.map": "/testpablo/static/js/main.c8e25dcd.js.map"
+    "main.c43d6060.js.map": "/testpablo/static/js/main.c43d6060.js.map"
   },
   "entrypoints": [
     "static/css/main.c61fe05b.css",
-    "static/js/main.c8e25dcd.js"
+    "static/js/main.c43d6060.js"
   ]
 }
